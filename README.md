@@ -79,7 +79,7 @@ From immersive visuals to smooth interactions, every element is carefully built 
 To run this project locally:
 
 ```bash
-git clone https://github.com/your-username/noirscent.git
+git clone https://github.com/upeka200163/NoirScent-Luxury-Perfumes.git
 cd noirscent
 open index.html
 ```
