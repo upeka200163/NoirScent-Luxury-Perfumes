@@ -1,4 +1,4 @@
-# 🖤 NoirScent – Luxury Perfume E-Commerce Landing Page
+# 🖤 NoirScent – Luxury Perfume E-Commerce WebSite
 
 **NoirScent** is a high-end, fully responsive e-commerce landing page crafted for a luxury fragrance brand.
 This project blends a **dark luxury aesthetic** with modern front-end development to deliver a visually rich and seamless user experience.
