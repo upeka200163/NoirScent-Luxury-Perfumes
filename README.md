@@ -12,6 +12,13 @@ From immersive visuals to smooth interactions, every element is carefully built 
 
 ---
 
+## 🌍 Live Preview
+
+🔗 Live Demo:
+[ඔබේ Netlify / Vercel / GitHub Pages Link එක මෙතන දාන්න]
+
+---
+
 ## 🌟 Key Features
 
 ### 🎯 Premium Hero Section
